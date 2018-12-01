@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aoc2018.iml" filepath="$PROJECT_DIR$/.idea/modules/aoc2018.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aoc2018_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aoc2018_main.iml" group="aoc2018" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aoc2018_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aoc2018_test.iml" group="aoc2018" />
     </modules>
   </component>
 </project>
